@@ -150,8 +150,8 @@
   top: -2em;
 }
 .sectioned-page-wrapper .section.section-charm .section-body .section-content.column-1 h3 {
-  font-family: Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 30px;
   font-size: 3rem;
   line-height: 1.625;
