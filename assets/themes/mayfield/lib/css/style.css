@@ -1,4 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Raleway:400,200,700);
+@import url(//fonts.googleapis.com/css?family=Nunito:400,700);
 /*
 HTML5 Reset
 ---------------------------------------------------------------------------------------------------- */
@@ -6290,8 +6291,8 @@ you can use the generic selector below, but it's slower:
 /* Font Stacks */
 .customsansserif,
 .customsanserif {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6310,8 +6311,7 @@ you can use the generic selector below, but it's slower:
 .button:hover,
 .button a:hover {
   padding: 6px 24px;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6412,8 +6412,8 @@ blockquote {
   border: none;
 }
 blockquote p {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6446,8 +6446,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6539,8 +6539,7 @@ input[type="submit"],
 .button,
 .entry-content .button {
   padding: 6px 24px;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6567,8 +6566,7 @@ input:hover[type="submit"],
 .button:hover,
 .entry-content .button:hover {
   padding: 6px 24px;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -7000,8 +6998,7 @@ img#wpstats {
 .job-manager-application-wrapper .application .application_button,
 .single_job_listing .application .application_button {
   padding: 6px 24px;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -7069,8 +7066,7 @@ Site Header
 --------------------------------------------- */
 .title-area {
   float: left;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -7230,8 +7226,8 @@ Site Navigation
 ---------------------------------------------------------------------------------------------------- */
 .genesis-nav-menu {
   clear: both;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -7337,8 +7333,8 @@ Site Navigation
   }*/
 }
 .nav-primary li.menu-item a {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 13px;
   font-size: 1.3rem;
   line-height: 1.625;
@@ -7697,8 +7693,8 @@ article.entry {
   display: block;
 }
 .entry-header .entry-title {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 28px;
   font-size: 2.8rem;
   line-height: 1.625;
@@ -7711,8 +7707,8 @@ article.entry {
   text-transform: uppercase;
 }
 .entry-header .entry-subtitle {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 21px;
   font-size: 2.1rem;
   line-height: 1.625;
@@ -7921,8 +7917,7 @@ Sidebars
 }
 .sidebar .widget_text .textwidget .readmore {
   padding: 6px 24px;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -8100,8 +8095,8 @@ Site Footer
 .site-footer {
   background-color: #faa21a;
   color: #ffffff;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 13px;
   font-size: 1.3rem;
   line-height: 1.625;
@@ -8200,8 +8195,8 @@ Site Footer
 }
 .sectioned-page-wrapper .section .section-subtitle,
 .sectioned-page-wrapper .section h4 {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 18px;
   font-size: 1.8rem;
   line-height: 1.625;
@@ -8214,8 +8209,7 @@ Site Footer
   margin-bottom: 2rem;
 }
 .sectioned-page-wrapper .section h3 {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 18px;
   font-size: 1.8rem;
   line-height: 1.625;
@@ -8225,8 +8219,8 @@ Site Footer
   margin-bottom: 0.5em;
 }
 .sectioned-page-wrapper .section .section-title h3 {
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
   font-size: 24px;
   font-size: 2.4rem;
   line-height: 1.625;
@@ -8464,8 +8458,7 @@ Site Footer
 }
 .sidebar.sidebar-primary .button {
   padding: 6px 24px;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -8509,8 +8502,7 @@ Site Footer
 }
 .sidebar.sidebar-primary section.widget.widget_text .widget-wrap .button {
   padding: 6px 24px;
-  font-family: "Raleway", "Trebuchet MS", Calibri, sans-serif;
-  font-weight: 400;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
