@@ -7969,7 +7969,7 @@ Sidebars
 Footer Widgets
 ---------------------------------------------------------------------------------------------------- */
 .footer-widgets {
-  background-color: #005395;
+  background-color: #9900ff;
   color: #ffffff;
   clear: both;
   padding: 2rem 0;
@@ -8003,7 +8003,7 @@ Footer Widgets
 }
 .footer-widgets .connected-social .social-media a.fa {
   background: #ffffff;
-  color: #005395;
+  color: #9900ff;
   border-radius: 100%;
   font-size: 2rem;
   height: 2em;
