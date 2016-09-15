@@ -6514,7 +6514,7 @@ input[type="week"],
 select,
 textarea {
   background-color: #ffffff;
-  border: 1px solid #d4d4d4;
+  border: 1px solid #666666;
   color: #666666;
   font-size: 14px;
   font-size: 1.4rem;
@@ -8467,20 +8467,20 @@ Site Footer
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
-  color: #ffffff;
+  color: #1f2b58;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
   display: table;
   margin: 12px auto;
   text-decoration: none;
-  background-color: rgba(31, 43, 88, 0);
-  border: 2px solid #ffffff;
+  background-color: rgba(212, 212, 212, 0);
+  border: 2px solid #1f2b58;
   border-radius: 6px;
-  background-color: #1f2b58;
+  background-color: none;
 }
 .sidebar.sidebar-primary .button:hover {
-  background-color: rgba(31, 43, 88, 0.8);
+  background-color: rgba(212, 212, 212, 0.8);
 }
 .sidebar.sidebar-primary section.widget.widget_text {
   padding: 2rem;
