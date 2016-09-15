@@ -271,6 +271,7 @@
   border: 1px solid #37464b;
   border-radius: 12px;
   padding: 2rem;
+  margin-left: 20%;
   font-size: 2.1rem;
 }
 .sectioned-page-wrapper .section.section-forms .section-content.column-1 .calculator-box h3 {
