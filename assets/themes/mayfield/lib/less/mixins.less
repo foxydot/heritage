@@ -52,7 +52,7 @@
 }
 
 .customheader(@size:1.6) {
-  font-family: 'Nunito', sans-serif;  
+  font-family: 'Nunito', sans-serif;
   font-weight: 700;
   font-size: unit((@size*10),px);
   font-size: unit(@size,rem);
@@ -247,7 +247,7 @@
 
 
 /* Buttons */
-.button(@background:@dkblue,@color:@dkblue) {
+.button(@background:@white,@color:@white) {
   padding: 6px 24px;
   .customsanserif;
   color: @color;
@@ -263,9 +263,10 @@
 }
 
 
-.button-hover(@background:@dkblue,@color:@dkblue) {
+.button-hover(@background:@white,@color:@white) {
   .button(@background,@color);
   background-color: fade(@background,40%);
+  color: @orange;
 }
 
 .button:hover,
