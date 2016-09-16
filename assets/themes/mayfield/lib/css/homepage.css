@@ -110,7 +110,6 @@
 .sectioned-page-wrapper .section {
   text-align: left;
   background-size: cover;
-  padding-bottom: 4em;
 }
 .sectioned-page-wrapper .section .section-title {
   padding: 0;
@@ -149,6 +148,7 @@
 .sectioned-page-wrapper .section.section-charm {
   position: relative;
   top: -2em;
+  padding-bottom: 4em;
 }
 .sectioned-page-wrapper .section.section-charm .section-body .section-content.column-1 h3 {
   font-family: 'Nunito', sans-serif;
@@ -227,6 +227,7 @@
 .sectioned-page-wrapper .section.section-forms .section-content {
   padding-left: 2rem;
   padding-right: 2rem;
+  padding-bottom: 4em;
 }
 .sectioned-page-wrapper .section.section-forms .section-content .gform_wrapper {
   margin: 0;
