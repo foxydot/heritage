@@ -189,6 +189,11 @@
   padding: 0.5em 1em 0 0;
   width: 20%;
 }
+.sectioned-page-wrapper .section.section-healthy-charming-relaxed .section-body .section-content.column-2 img {
+  border: 0;
+  -webkit-box-shadow: 0 0 0 0 #ffffff;
+  box-shadow: 0 0 0 0 #ffffff;
+}
 .sectioned-page-wrapper .section.section-healthy-charming-relaxed .section-body .section-content.column-2 h3 {
   font-family: 'Nunito', sans-serif;
   font-size: 30px;
