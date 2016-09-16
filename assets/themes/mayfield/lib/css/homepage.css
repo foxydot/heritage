@@ -110,6 +110,7 @@
 .sectioned-page-wrapper .section {
   text-align: left;
   background-size: cover;
+  padding-bottom: 4em;
 }
 .sectioned-page-wrapper .section .section-title {
   padding: 0;
