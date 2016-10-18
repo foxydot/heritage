@@ -1,5 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Raleway:400,200,700);
 @import url(//fonts.googleapis.com/css?family=Nunito:400,700);
+@import url(//fonts.googleapis.com/css?family=Marck+Script);
 /*
 HTML5 Reset
 ---------------------------------------------------------------------------------------------------- */
@@ -6292,7 +6293,7 @@ you can use the generic selector below, but it's slower:
 .customsansserif,
 .customsanserif {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6312,6 +6313,7 @@ you can use the generic selector below, but it's slower:
 .button a:hover {
   padding: 6px 24px;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6347,7 +6349,7 @@ html {
 body {
   background-color: #ffffff;
   color: #2d2d2d;
-  font-family: "Raleway", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
+  font-family: "Nunito", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-size: 1.8rem;
@@ -6413,7 +6415,7 @@ blockquote {
 }
 blockquote p {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6447,7 +6449,7 @@ h4,
 h5,
 h6 {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6540,6 +6542,7 @@ input[type="submit"],
 .entry-content .button {
   padding: 6px 24px;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6567,6 +6570,7 @@ input:hover[type="submit"],
 .entry-content .button:hover {
   padding: 6px 24px;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -6776,7 +6780,7 @@ img.alignright,
   padding: 4rem;
 }
 .author-box-title {
-  font-family: "Raleway", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
+  font-family: "Nunito", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
@@ -7005,6 +7009,7 @@ img#wpstats {
 .single_job_listing .application .application_button {
   padding: 6px 24px;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -7073,6 +7078,7 @@ Site Header
 .title-area {
   float: left;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -7233,7 +7239,7 @@ Site Navigation
 .genesis-nav-menu {
   clear: both;
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -7340,7 +7346,7 @@ Site Navigation
 }
 .nav-primary li.menu-item a {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 15px;
   font-size: 1.5rem;
   line-height: 1.625;
@@ -7410,7 +7416,7 @@ Site Navigation
   position: relative;
 }
 .nav-secondary .wrap li.menu-item > a {
-  font-family: "Raleway", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
+  font-family: "Nunito", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
   font-size: 14px;
   font-size: 1.4rem;
@@ -7700,7 +7706,7 @@ article.entry {
 }
 .entry-header .entry-title {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 28px;
   font-size: 2.8rem;
   line-height: 1.625;
@@ -7714,7 +7720,7 @@ article.entry {
 }
 .entry-header .entry-subtitle {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 21px;
   font-size: 2.1rem;
   line-height: 1.625;
@@ -7908,7 +7914,7 @@ Sidebars
   border-radius: 0px;
 }
 .sidebar .widget .widget-title {
-  font-family: "Raleway", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
+  font-family: "Nunito", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
   font-size: 24px;
   font-size: 2.4rem;
@@ -7924,6 +7930,7 @@ Sidebars
 .sidebar .widget_text .textwidget .readmore {
   padding: 6px 24px;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -8103,7 +8110,7 @@ Site Footer
   background-color: #faa21a;
   color: #ffffff;
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 13px;
   font-size: 1.3rem;
   line-height: 1.625;
@@ -8203,7 +8210,7 @@ Site Footer
 .sectioned-page-wrapper .section .section-subtitle,
 .sectioned-page-wrapper .section h4 {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 18px;
   font-size: 1.8rem;
   line-height: 1.625;
@@ -8217,6 +8224,7 @@ Site Footer
 }
 .sectioned-page-wrapper .section h3 {
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 18px;
   font-size: 1.8rem;
   line-height: 1.625;
@@ -8227,7 +8235,7 @@ Site Footer
 }
 .sectioned-page-wrapper .section .section-title h3 {
   font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 24px;
   font-size: 2.4rem;
   line-height: 1.625;
@@ -8424,7 +8432,7 @@ Site Footer
   }
 }
 .site-header .widget-area .widget.widget_text {
-  font-family: "Raleway", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
+  font-family: "Nunito", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
   font-size: 14px;
   font-size: 1.4rem;
@@ -8446,7 +8454,7 @@ Site Footer
   text-shadow: 0 0 8px #666666;
   background: rgba(255, 255, 255, 0);
   display: block;
-  font-family: "jenna_sueregular", cursive;
+  font-family: 'Marck Script', cursive;
   font-weight: 400;
   font-size: 80px;
   font-size: 8rem;
@@ -8466,6 +8474,7 @@ Site Footer
 .sidebar.sidebar-primary .button {
   padding: 6px 24px;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -8510,6 +8519,7 @@ Site Footer
 .sidebar.sidebar-primary section.widget.widget_text .widget-wrap .button {
   padding: 6px 24px;
   font-family: 'Nunito', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
@@ -8576,7 +8586,7 @@ Site Footer
   display: none;
 }
 .su-accordion .su-spoiler .su-spoiler-title {
-  font-family: "Raleway", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
+  font-family: "Nunito", "Helvetica Neue", "Trebuchet MS", Calibri, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-size: 1.8rem;
