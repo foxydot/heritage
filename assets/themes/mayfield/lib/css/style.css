@@ -8546,11 +8546,11 @@ Site Footer
   border: 1px solid #d4d4d4;
   background: rgba(255, 255, 255, 0.8);
   width: auto;
-  padding: 0.5em 1em;
+  padding: 0.25em .5em;
   float: right;
 }
 .text-sizer div i {
-  margin-left: 0.5em;
+  margin-left: 0em;
   padding: 0.5em;
   color: #666666;
   cursor: pointer;
@@ -8590,7 +8590,7 @@ Site Footer
   font-size: 18px;
   font-size: 1.8rem;
   line-height: 1.625;
-  color: #005395;
+  color: #6c296a;
 }
 .su-accordion .su-spoiler .su-spoiler-title .su-spoiler-icon {
   font-size: 1.8rem;
