@@ -8495,10 +8495,10 @@ Site Footer
 .sidebar.sidebar-primary section.widget.widget_text {
   padding: 2rem;
   margin-bottom: 4rem;
-  color: #666666;
+  color: #6c296a;
 }
 .sidebar.sidebar-primary section.widget.widget_text .widget-wrap {
-  background-color: #1f2b58;
+  background-color: transparent;
   border: 1px solid #666666;
   border-radius: 12px;
   text-align: center;
@@ -8511,7 +8511,7 @@ Site Footer
   background-size: 50px auto;
   background-image: url(../img/icon-calculator.png);
   padding-left: 55px;
-  color: #666666;
+  color: #6c296a;
   font-size: 3rem;
   line-height: 1;
 }
@@ -8522,17 +8522,17 @@ Site Footer
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
-  color: #666666;
+  color: #ffffff;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
   display: table;
   margin: 12px auto;
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0);
-  border: 2px solid #666666;
+  background-color: rgba(55, 70, 75, 0);
+  border: 2px solid #ffffff;
   border-radius: 6px;
-  background-color: #ffffff;
+  background-color: #37464b;
   font-size: 14px;
   width: 98%;
 }
