@@ -63,7 +63,7 @@ Site Footer
   background-color: rgba(0, 0, 0, 0);
   border: 2px solid transparent;
   border-radius: 6px;
-  color: #fcb040;
+  color: #f7ae41;
 }
 /* Clears */
 .msd-clearfix {
@@ -74,7 +74,7 @@ Site Footer
   visibility: hidden;
 }
 .site-footer {
-  background-color: #faa21a;
+  background-color: #f7ae41;
   color: #ffffff;
   font-family: 'Nunito', sans-serif;
   font-weight: 400;

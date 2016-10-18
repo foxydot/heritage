@@ -6327,7 +6327,7 @@ you can use the generic selector below, but it's slower:
   background-color: rgba(0, 0, 0, 0);
   border: 2px solid transparent;
   border-radius: 6px;
-  color: #fcb040;
+  color: #f7ae41;
 }
 /* Clears */
 .msd-clearfix {
@@ -6584,7 +6584,7 @@ input:hover[type="submit"],
   background-color: rgba(0, 0, 0, 0);
   border: 2px solid transparent;
   border-radius: 6px;
-  color: #fcb040;
+  color: #f7ae41;
 }
 .entry-content .button:hover {
   color: #ffffff;
@@ -6850,7 +6850,7 @@ Widgets
   padding: 0.4rem 0;
   font-weight: normal;
   margin-bottom: 0;
-  color: #1f2b58;
+  color: #6c296a;
 }
 /* Featured Content
 --------------------------------------------- */
@@ -7037,7 +7037,7 @@ img#wpstats {
   text-align: inherit;
 }
 .pre-header {
-  background-color: #faa21a;
+  background-color: #f7ae41;
   color: white;
   z-index: 300;
 }
@@ -7919,7 +7919,7 @@ Sidebars
   font-size: 24px;
   font-size: 2.4rem;
   line-height: 1.625;
-  color: #005395;
+  color: #6c296a;
 }
 .sidebar .enews-widget {
   background-color: #333;
@@ -7971,7 +7971,7 @@ Sidebars
   padding: 0.4rem 2rem 0.4rem 50rem;
 }
 .sidebar span.fa-stack {
-  color: #1f2b58;
+  color: #6c296a;
 }
 /*
 Footer Widgets
@@ -8107,7 +8107,7 @@ Footer Widgets
 Site Footer
 ---------------------------------------------------------------------------------------------------- */
 .site-footer {
-  background-color: #faa21a;
+  background-color: #f7ae41;
   color: #ffffff;
   font-family: 'Nunito', sans-serif;
   font-weight: 400;
@@ -8215,7 +8215,7 @@ Site Footer
   font-size: 1.8rem;
   line-height: 1.625;
   font-weight: 500;
-  color: #1f2b58;
+  color: #6c296a;
   line-height: 1.25;
   margin: 0;
 }
@@ -8228,7 +8228,7 @@ Site Footer
   font-size: 18px;
   font-size: 1.8rem;
   line-height: 1.625;
-  font-weight: 700;
+  font-weight: 500;
   color: #666666;
   line-height: 1.25;
   margin-bottom: 0.5em;
@@ -8684,7 +8684,7 @@ Site Footer
     display: inline-block;
     width: 100%;
     text-indent: 20px;
-    background: #fdc572;
+    background: #f9c372;
     min-height: 50px;
     padding-top: 14px;
     position: relative;
@@ -8704,7 +8704,7 @@ Site Footer
     padding: 0;
   }
   .nav-responsive a#pull ul#mobile_menu li a {
-    background: #fdc572;
+    background: #f9c372;
     color: #ffffff;
     display: block;
     width: 100%;
@@ -8716,7 +8716,7 @@ Site Footer
     right: 15px;
   }
   .nav-responsive a#pull ul#mobile_menu li a:hover {
-    background: #fedaa4;
+    background: #fbd8a3;
   }
   .nav-responsive a#pull ul#mobile_menu li .toggle-switch {
     margin-right: 12px;
@@ -8746,7 +8746,7 @@ Site Footer
     display: none;
   }
   .nav-responsive a#pull ul#mobile_menu li.current-menu-item a {
-    background: #fee4be;
+    background: #fce2bb;
   }
   .nav-responsive a#pull:hover {
     text-decoration: none;
