@@ -6810,7 +6810,7 @@ img.alignright,
 .section-title a,
 .entry-title a,
 .sidebar .widget-title a {
-  color: #005395;
+  color: #6c296a;
 }
 .section-title a:hover,
 .entry-title a:hover {
@@ -6957,7 +6957,6 @@ div.gform_wrapper .gform_footer input[type="submit"] {
   font-weight: 700;
   color: #5ea8bf;
   text-decoration: none;
-  margin-left: 37%;
 }
 /* Jetpack
 --------------------------------------------- */
@@ -8258,7 +8257,7 @@ Site Footer
   background-color: #e3e2e0;
 }
 .sectioned-page-wrapper .section.bkg-blue {
-  background-color: #005395;
+  background-color: #2495bc;
   color: #ffffff;
 }
 .sectioned-page-wrapper .section.bkg-blue .section-title h3 {
@@ -8295,8 +8294,8 @@ Site Footer
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-color: rgba(0, 83, 149, 0);
-  border-top-color: #005395;
+  border-color: rgba(36, 149, 188, 0);
+  border-top-color: #2495bc;
   border-width: 20px 40px;
   margin-left: -40px;
   z-index: 300;
@@ -8322,7 +8321,7 @@ Site Footer
   padding-bottom: 2rem;
 }
 .sectioned-page-wrapper .section.title-bar.title-bar-blue .section-title {
-  background-color: #005395;
+  background-color: #2495bc;
 }
 .sectioned-page-wrapper .section.title-bar.title-bar-blue .section-title h3 {
   color: #ffffff;
@@ -8338,8 +8337,8 @@ Site Footer
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-color: rgba(0, 83, 149, 0);
-  border-top-color: #005395;
+  border-color: rgba(36, 149, 188, 0);
+  border-top-color: #2495bc;
   border-width: 20px 40px;
   margin-left: -40px;
   z-index: 300;
