@@ -8156,7 +8156,10 @@ Site Footer
   font-weight: 700;
 }
 .site-footer .wrap div.icons i.icon-equal-housing {
-  background-image: url(../img/icon-equal-housing.png);
+  background-image: url(../img/Equal-Housing-new2.png);
+  height: 25px;
+  top: .3em;
+  position: relative;
 }
 .site-footer .wrap div.icons i.logo {
   height: 40px;
@@ -8183,7 +8186,9 @@ Site Footer
   width: 290px;
 }
 .site-footer .wrap div.icons i.logo-pet {
-  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 12px;
   background-image: url(../img/pet-logo.png);
 }
 .site-footer .wrap .backtotop {
