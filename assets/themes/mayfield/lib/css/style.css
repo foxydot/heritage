@@ -7668,11 +7668,13 @@ article.entry {
 .entry-content ol li {
   list-style-type: decimal;
 }
-.entry-content ul li {
+/*.entry-content ul li {
   list-style-image: url(../img/heritage-bullet.png);
-}
-.entry-content ul li p {
-  margin-top: -10px;
+}*/
+.entry-content li:before {
+  content: url(../img/heritage-bullet.png);
+  padding-right: 8px;
+  padding-top: 5px;
 }
 .entry-content ol ol,
 .entry-content ul ul {
