@@ -6955,8 +6955,11 @@ div.gform_wrapper .gform_footer input[type="submit"] {
   padding-left: 40px;
   font-size: 1.3em;
   font-weight: 700;
-  color: #5ea8bf;
+  color: #2495bc;
   text-decoration: none;
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
 }
 /* Jetpack
 --------------------------------------------- */
@@ -7666,7 +7669,7 @@ article.entry {
   list-style-type: decimal;
 }
 .entry-content ul li {
-  list-style-image: url(http://chester.msdlab2.com/assets/uploads/2016/07/arrow.png);
+  list-style-image: url(../img/heritage-bullet.png);
 }
 .entry-content ol ol,
 .entry-content ul ul {
