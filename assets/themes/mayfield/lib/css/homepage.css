@@ -226,7 +226,7 @@
   line-height: 1.625;
 }
 .sectioned-page-wrapper .section.section-forms {
-  padding-bottom: 8em;
+  padding-bottom: 2em;
 }
 .sectioned-page-wrapper .section.section-forms .section-content {
   padding-left: 2rem;
@@ -338,6 +338,13 @@
 }
 .sectioned-page-wrapper .section.section-welcome-home {
   padding: 8em 0;
+}
+.sectioned-page-wrapper .section.section-welcome-home em {
+  font-family: 'Marck Script', cursive;
+  font-weight: 400;
+  font-size: 80px;
+  font-size: 8rem;
+  line-height: 1;
 }
 @media only screen and (max-width: 980px) {
   nav.homepage-top .menu li a {
