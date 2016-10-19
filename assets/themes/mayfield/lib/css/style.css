@@ -7467,7 +7467,7 @@ Site Navigation
   position: relative;
 }
 .nav-footer li.menu-item > a {
-  padding: 0 1rem;
+  padding: 0 .5rem;
 }
 .nav-footer li.menu-item.last-child {
   border: 0;
