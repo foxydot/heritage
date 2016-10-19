@@ -7671,6 +7671,9 @@ article.entry {
 .entry-content ul li {
   list-style-image: url(../img/heritage-bullet.png);
 }
+.entry-content ul li p {
+  margin-top: -10px;
+}
 .entry-content ol ol,
 .entry-content ul ul {
   margin-bottom: 0;
