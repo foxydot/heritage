@@ -184,7 +184,7 @@ article.entry {
   margin: 0;
 }
 .entry-content li:before {
-  content: url(../img/heritage-bullet.png);
+  content: url(../img/heritage-bullet-small.png);
   padding-right: 8px;
 }
 .entry-content ol ol,
