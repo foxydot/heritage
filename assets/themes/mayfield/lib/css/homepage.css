@@ -75,6 +75,7 @@
 }
 .hp-top .widget_sp_image .image-widget-background {
   padding: 7em 0 !important;
+  background-position: center bottom !important;
 }
 .hp-top .widget_sp_image .wrap h2.hero-title {
   font-family: 'Raleway', sans-serif;
