@@ -76,6 +76,13 @@
 .hp-top .widget_sp_image .image-widget-background {
   padding: 7em 0 !important;
   background-position: center bottom !important;
+  position: relative !important;
+  min-height: 450px !important;
+}
+.hp-top .widget_sp_image .wrap {
+  position: absolute;
+  bottom: 2em;
+  left: 5em;
 }
 .hp-top .widget_sp_image .wrap h2.hero-title {
   font-family: 'Raleway', sans-serif;
