@@ -74,7 +74,7 @@
   z-index: -1;
 }
 .hp-top .widget_sp_image .image-widget-background {
-  padding: 3em 0 0;
+  padding: 7em 0;
 }
 .hp-top .widget_sp_image h2.hero-title {
   font-family: 'Raleway', sans-serif;
@@ -93,13 +93,13 @@
 }
 .hp-top .widget_sp_image .button {
   border: 0;
-  background-color: #2495bc;
+  background-color: #f7ae41;
   color: #ffffff;
   text-decoration: none;
   margin: 0;
 }
 .hp-top .widget_sp_image .button:hover {
-  background-color: #1c7391;
+  background-color: #f59910;
 }
 .site-inner {
   display: none;
