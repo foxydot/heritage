@@ -73,10 +73,10 @@
 .hp-top {
   z-index: -1;
 }
-.hp-top .widget_sp_image-2 .image-widget-background {
-  padding: 7em 0;
+.hp-top .widget_sp_image .image-widget-background {
+  padding: 7em 0 !important;
 }
-.hp-top .widget_sp_image-2 h2.hero-title {
+.hp-top .widget_sp_image .wrap h2.hero-title {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 50px;
@@ -87,18 +87,18 @@
   font-weight: 600;
   line-height: 1;
 }
-.hp-top .widget_sp_image-2 h3 {
+.hp-top .widget_sp_image .wrap h3 {
   line-height: 1;
   color: #ffffff;
 }
-.hp-top .widget_sp_image-2 .button {
+.hp-top .widget_sp_image .wrap .button {
   border: 0;
   background-color: #f7ae41;
   color: #ffffff;
   text-decoration: none;
   margin: 0;
 }
-.hp-top .widget_sp_image-2 .button:hover {
+.hp-top .widget_sp_image .wrap .button:hover {
   background-color: #f59910;
 }
 .site-inner {
