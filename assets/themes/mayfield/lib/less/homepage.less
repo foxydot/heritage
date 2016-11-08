@@ -7,10 +7,10 @@
   z-index: -1;
   .widget_sp_image{
     .image-widget-background{
-      padding: 7em 0 !important;
-      background-position: center bottom !important;
-      position: relative !important;
-    min-height: 450px !important;
+      padding: 7em 0;
+      background-position: center bottom;
+      position: relative;
+      min-height: 450px;
     }
     .wrap{
     position: absolute;
@@ -294,12 +294,54 @@
       }
     }
   }
+  .hp-top{
+    .widget_sp_image{
+      .image-widget-background{
+        padding: 7vw 0;
+        min-height: 45vw;
+      }
+      .wrap{
+      bottom: 2vw;
+      left: 4vw;
+      h2.hero-title{
+        font-size: 6vw;
+      }
+      h3{
+        font-size: 4vw;
+      }
+    }
+  }
+  }
 
   .sectioned-page-wrapper{
+    .section{
+      .section-body{
+        .wrap{
+          margin-left: 1em;
+          margin-right: 1em;
+        }
+        img.alignleft,img.alignright,img.aligncenter,img.alignnone{
+          float: none;
+          clear: both;
+          margin: 0 auto;
+          display: block;
+        }
+      }
+    }
+    .section.section-image2,
+    .section.section-image5,
+    .section.section-charm,
+    .section-healthy-charming-relaxed{
+      top: 0;
+      .section-body{
+        .section-content.column-1,
+        .section-content.column-2,
+        .section-content.column-3{
+          top: 0;
+        }
+      }
+    }
     .section.section-forms{
-    .background-image(linear-gradient(to bottom, @offwhite 0%,@offwhite 49.9%,@dkblue 50%,@dkblue 100%));
-      border-top: 6px solid @dkblue;
-      border-bottom: 0 solid @dkblue;
       .section-body>.wrap>.row{
         margin: 0;
         padding: 0;
@@ -308,11 +350,13 @@
        padding-left: 10vw;
        padding-right: 10vw;
        &.column-1{
-         background-color: @offwhite;
+         .calculator-box{
+           margin-right: auto;
+           margin-left: auto;
+           display: block;
+         }
        }
        &.column-2{
-         background-color: @dkblue;
-         color: @white;
          .icon-calculator{
            &:before{
              margin: 2rem 0;
@@ -346,6 +390,13 @@
 
 @media only screen and (max-width: 479px) {
   .sectioned-page-wrapper{
+    .section{
+      .section-content{
+         img{
+           max-width: 300px;
+         }
+       }
+    }
     .section.section-programs{
       padding: 100vw 0 0 0;
       background-position: top left;
@@ -353,6 +404,15 @@
       .section-title,.section-body{
         background-color: @white;
         padding: 0 2vw;
+      }
+    }
+    .section.section-forms{
+      .section-content{
+       &.column-1{
+         .calculator-box{
+           width: 100%;
+         }
+       }
       }
     }
   }

@@ -10,7 +10,7 @@ if ( !defined('ABSPATH') )
 
 echo $before_widget;
 if(is_front_page()){
-    echo '<div class="image-widget-background" style="background-image: url('.$imageurl.'); background-position: center center; background-repeat: no-repeat; background-size: cover;" id="'.$this->id.'"><div class="wrap">';
+    echo '<div class="image-widget-background" style="background-image: url('.$imageurl.'); background-repeat: no-repeat; background-size: cover;" id="'.$this->id.'"><div class="wrap">';
 
     if ( !empty( $title ) ) { echo $before_title . $title . $after_title; }
     
