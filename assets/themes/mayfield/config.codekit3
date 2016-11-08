@@ -1073,6 +1073,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/lib\/css\/lesshat-prefixed.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/lib\/css\/lesshat-prefixed.css.map",
+		"oF": 0
+		},
 	"\/lib\/css\/lesshat.css": {
 		"aP": 0,
 		"bl": 0,
@@ -1795,6 +1801,78 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/lib\/img\/apple-touch-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 2202,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-114x114.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 2610,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-120x120.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 3672,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-144x144.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 4437,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-152x152.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 5939,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-180x180.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 790,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-57x57.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 1067,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-72x72.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 1314,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lib\/img\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 790,
+		"oA": 0,
+		"oAP": "\/lib\/img\/apple-touch-icon.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/lib\/img\/arrow.png": {
 		"ft": 32768,
 		"iS": 272,
@@ -1836,6 +1914,12 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/lib\/img\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/lib\/img\/favicon.ico",
+		"oF": 0
 		},
 	"\/lib\/img\/heritage-bullet-small.png": {
 		"ft": 32768,
