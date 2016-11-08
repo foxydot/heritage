@@ -6990,6 +6990,10 @@ img#wpstats {
 .entry-content ul.press-items li {
   list-style: none outside none;
 }
+.entry-content ul.news-items li:before,
+.entry-content ul.press-items li:before {
+  content: '';
+}
 .entry-content ul.news-items div.page {
   display: none;
 }
@@ -7006,6 +7010,9 @@ img#wpstats {
   display: inline-block;
   cursor: pointer;
   padding: 0 1em;
+}
+.entry-content ul.publication-list-pagination li:before {
+  content: '';
 }
 .job-manager-application-wrapper .application .application_button,
 .single_job_listing .application .application_button {
