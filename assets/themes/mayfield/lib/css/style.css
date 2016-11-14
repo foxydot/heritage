@@ -8853,4 +8853,36 @@ Site Footer
     top: 2em;
   }
 }
+/******"Fixes" for mobile. c/p to other themes.*******/
+a[href^="tel"] {
+  color: inherit;
+  text-decoration: none;
+}
+.pre-header a[href^="tel"],
+.footer-widgets a[href^="tel"] {
+  color: #FFF;
+  text-decoration: none;
+}
+@media only screen and (max-width: 479px) {
+  main.content {
+    padding: 1vw 4vw;
+  }
+  .text-sizer {
+    text-align: center;
+    margin: 2vw;
+  }
+  .text-sizer div {
+    float: none;
+  }
+  .gform_wrapper .gform_footer input.button,
+  .gform_wrapper .gform_footer input[type="submit"],
+  .gform_wrapper .gform_page_footer input.button,
+  .gform_wrapper .gform_page_footer input[type="submit"] {
+    width: auto !important;
+  }
+  .pre-header .widget-area .textwidget ul li {
+    font-size: 3.5vw;
+    border: 0;
+  }
+}
 /*# sourceMappingURL=style.css.map */

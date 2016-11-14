@@ -263,3 +263,40 @@
     top: 2em;
   }
 }
+
+/******"Fixes" for mobile. c/p to other themes.*******/
+//fix phone number color on iphones
+a[href^="tel"]{
+    color:inherit;
+    text-decoration:none;
+}
+.pre-header,.footer-widgets{
+  a[href^="tel"]{
+      color:@white;
+      text-decoration:none;
+  }
+}
+
+@media only screen and (max-width : 479px) {
+  main.content{
+    padding: 1vw 4vw;
+  }
+  //8023 – text is awkwardly close to font resizing button
+  .text-sizer{
+    text-align: center;
+    margin: 2vw;
+    div{
+      float: none;
+    }
+  }
+  //8018 – the orange button is far away from submit
+  .gform_wrapper .gform_footer input.button, .gform_wrapper .gform_footer input[type="submit"], .gform_wrapper .gform_page_footer input.button, .gform_wrapper .gform_page_footer input[type="submit"]{
+    width: auto !important;
+  }
+  
+  //0858 - Phone numbers in header are formatted weird
+  .pre-header .widget-area .textwidget ul li{
+    font-size: 3.5vw;
+    border: 0;
+  }
+}
