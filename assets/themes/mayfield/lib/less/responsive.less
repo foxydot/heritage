@@ -299,6 +299,14 @@ a[href^="tel"]{
     width: 85vw !important;
     margin: 3vw auto;
   }
+  //0860 & 0863-  Some spacing issues around images – the first word may be at the top of the image while the next work is at the bottom
+  img.alignright,img.alignleft{
+    float: none;
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
   //0858 - Phone numbers in header are formatted weird
   .pre-header .widget-area .textwidget ul li{
     font-size: 3.5vw;

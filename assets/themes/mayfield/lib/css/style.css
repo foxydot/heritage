@@ -8884,6 +8884,14 @@ a[href^="tel"] {
     width: 85vw !important;
     margin: 3vw auto;
   }
+  img.alignright,
+  img.alignleft {
+    float: none;
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .pre-header .widget-area .textwidget ul li {
     font-size: 3.5vw;
     border: 0;
