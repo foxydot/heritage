@@ -8880,6 +8880,10 @@ a[href^="tel"] {
   .gform_wrapper .gform_page_footer input[type="submit"] {
     width: auto !important;
   }
+  .mapp-layout {
+    width: 85vw !important;
+    margin: 3vw auto;
+  }
   .pre-header .widget-area .textwidget ul li {
     font-size: 3.5vw;
     border: 0;
